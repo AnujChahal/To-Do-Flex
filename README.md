@@ -8,7 +8,7 @@
 ## 📱 App Preview
 
 <p align="center">
-  <img src="![Screen Recording 2026-02-13 110310](https://github.com/user-attachments/assets/602b021a-29ce-4929-b94a-47e58c94b993)" width="260"/>
+  <img src="https://github.com/user-attachments/assets/602b021a-29ce-4929-b94a-47e58c94b993" width="260"/>
 </p>
 
 ---
@@ -125,11 +125,11 @@ todoflex
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="<img width="396" height="829" alt="Screenshot 2026-02-13 103504" src="https://github.com/user-attachments/assets/150a1189-f833-4ef6-aa02-2d176538cb23" />
+  <img src="https://github.com/user-attachments/assets/150a1189-f833-4ef6-aa02-2d176538cb23" />
 " width="250"/>
-  <img src="<img width="391" height="828" alt="Screenshot 2026-02-13 103517" src="https://github.com/user-attachments/assets/6e47bc48-edc0-40e2-a562-f5d422f268ed" />
+  <img src=""https://github.com/user-attachments/assets/6e47bc48-edc0-40e2-a562-f5d422f268ed" />
 " width="250"/>
-  <img src="<img width="390" height="830" alt="Screenshot 2026-02-13 103525" src="https://github.com/user-attachments/assets/0a69fafa-52cc-42f1-8140-7e1d0344d8f1" />
+  <img src=""https://github.com/user-attachments/assets/0a69fafa-52cc-42f1-8140-7e1d0344d8f1" />
 " width="250"/>
 </p>
 
